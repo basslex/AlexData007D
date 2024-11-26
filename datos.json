@@ -1,0 +1,186 @@
+{
+  "alumnos": [
+    {
+      "nombre": "Alexander",
+      "apellido": "Andrades",
+      "correo": "alex@duocuc.cl",
+      "pass": "Alex12345",
+      "rut": "21666666",
+      "dv": "6",
+      "imagen": "assets/img/alex.png",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "nombre": "Benjamín",
+      "apellido": "Jeria",
+      "rut": "21111111",
+      "dv": "4",
+      "correo": "benja@duocuc.cl",
+      "pass": "Benja1234",
+      "imagen": "assets/img/alex.png"
+    },
+    {
+      "nombre": "Sebastian",
+      "apellido": "Pardo",
+      "correo": "seba@duocuc.cl",
+      "pass": "Seba1234",
+      "rut": "20200200",
+      "dv": "2",
+      "imagen": "assets/img/alex.png",
+      "id": "2ebc"
+    },
+    {
+      "id": "c31e",
+      "nombre": "Sebastian",
+      "apellido": "Delgado",
+      "rut": "21000000",
+      "dv": "0",
+      "correo": "sebas@duocuc.cl",
+      "pass": "Sebas12345",
+      "imagen": ""
+    }
+  ],
+  "asignaturas": [
+    {
+      "id": "1",
+      "asignatura": "PROGRAMACIÓN APLICACIONES MÓVILES",
+      "seccion": "007D",
+      "rut": "21666666"
+    },
+    {
+      "id": "2",
+      "asignatura": "PROGRAMACIÓN APLICACIONES MÓVILES",
+      "seccion": "007D",
+      "rut": "21111111"
+    },
+    {
+      "id": "3",
+      "asignatura": "PROGRAMACIÓN APLICACIONES MÓVILES",
+      "seccion": "007D",
+      "rut": "20200200"
+    },
+    {
+      "id": "4",
+      "asignatura": "INGLÉS INTERMEDIO",
+      "seccion": "029D",
+      "rut": "21666666"
+    },
+    {
+      "id": "5",
+      "asignatura": "INGLÉS AVANZADO",
+      "seccion": "023D",
+      "rut": "20200200"
+    },
+    {
+      "id": "6",
+      "asignatura": "PROCESO DE PORTAFOLIO",
+      "seccion": "007D",
+      "rut": "21666666"
+    },
+    {
+      "id": "7",
+      "asignatura": "PROCESO DE PORTAFOLIO",
+      "seccion": "007D",
+      "rut": "21111111"
+    }
+  ],
+  "justificaciones": [
+    {
+      "comentario": "No voy a tolerar ese comportamiento.",
+      "asignatura": "PROGRAMACIÓN APLICACIONES MÓVILES",
+      "mensaje": "Me dolía la guatita :)",
+      "rut": "21666666",
+      "fecha": "23-10-2024",
+      "id": "1"
+    },
+    {
+      "comentario": "Que no se vuelva a repetir. Tómese un tecito",
+      "asignatura": "PROGRAMACIÓN APLICACIONES MÓVILES",
+      "mensaje": "No me sentía bien :(",
+      "rut": "21666666",
+      "fecha": "23-10-2024",
+      "id": "9986"
+    },
+    {
+      "id": "a840",
+      "asignatura": "INGLÉS INTERMEDIO",
+      "mensaje": "I don't speak English teacher, sorry.",
+      "rut": "21666666",
+      "fecha": "23-10-2024",
+      "comentario": ""
+    }
+  ],
+  "asistencia": [
+    {
+      "id": "1",
+      "asignatura": "PROGRAMACIÓN APLICACIONES MÓVILES",
+      "seccion": "007D",
+      "rut": "21666666",
+      "correo": "alex@duocuc.cl",
+      "fecha": "21-10-2024"
+    },
+    {
+      "id": "bf0a",
+      "asignatura": "PROCESO DE PORTAFOLIO",
+      "seccion": "007D",
+      "rut": "21666666",
+      "correo": "alex@duocuc.cl",
+      "fecha": "22-10-2024"
+    },
+    {
+      "id": "c0ec",
+      "asignatura": "INGLÉS INTERMEDIO",
+      "seccion": "029D",
+      "rut": "21666666",
+      "correo": "alex@duocuc.cl",
+      "fecha": "22-10-2024"
+    },
+    {
+      "id": "c1eb",
+      "asignatura": "PROGRAMACIÓN APLICACIONES MÓVILES",
+      "seccion": "007D",
+      "rut": "20200200",
+      "correo": "seba@duocuc.cl",
+      "fecha": "23-10-2024"
+    },
+    {
+      "id": "4717",
+      "asignatura": "PROGRAMACIÓN APLICACIONES MÓVILES",
+      "seccion": "007D",
+      "rut": "21666666",
+      "correo": "alex@duocuc.cl",
+      "fecha": "26-11-2024"
+    },
+    {
+      "id": "242b",
+      "asignatura": "INGLÉS INTERMEDIO",
+      "seccion": "029D",
+      "rut": "21666666",
+      "correo": "alex@duocuc.cl",
+      "fecha": "26-11-2024"
+    }
+  ],
+  "profesores": [
+    {
+      "nombre": "Profe",
+      "apellido": "Vivi",
+      "correo": "profevivi@duocuc.cl",
+      "pass": "Cachupin1",
+      "rut": "11111111",
+      "dv": "1",
+      "imagen": "",
+      "id": "1"
+    },
+    {
+      "nombre": "Alex",
+      "apellido": "Aguilera",
+      "correo": "profealex@duocuc.cl",
+      "pass": "Basededatos1",
+      "rut": "22222222",
+      "dv": "2",
+      "imagen": "",
+      "id": "707b"
+    }
+  ]
+}
